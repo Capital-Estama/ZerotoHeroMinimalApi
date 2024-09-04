@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "v230sLS8CxEBWP5tBwH2DB7mj8HTb+XupOgLZ2E6SBs=",
+  "Source": "MinimalApiZeroToHero.Api",
+  "BasePath": "_content/MinimalApiZeroToHero.Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

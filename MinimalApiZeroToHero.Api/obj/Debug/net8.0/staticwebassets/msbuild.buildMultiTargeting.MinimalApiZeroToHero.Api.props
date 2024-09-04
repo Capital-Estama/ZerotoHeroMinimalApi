@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="../build/MinimalApiZeroToHero.Api.props" />
+</Project>
